@@ -197,9 +197,6 @@ header .main-menu {
     right: 0;
     z-index: 1;
 }
-header .main-menu .item{
- 
-}
 header .main-menu .item .item__name {
     padding: 10px 20px 34px 20px;
     font-family: Arial, sans-serif;
@@ -614,9 +611,6 @@ header .badges .badge {
 .season-product .text-group .description {
     margin-bottom: 15px;
 }
-.season-product .text-group .mroe {
-
-}
 
 
 /* RESERVE COFFEE */
@@ -894,4 +888,4 @@ footer .logo {
     bottom: 30px;
     right: 30px;
     z-index: 9;
-} 
+}
